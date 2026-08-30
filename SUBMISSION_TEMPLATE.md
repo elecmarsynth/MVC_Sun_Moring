@@ -1,7 +1,7 @@
 # SUBMISSION - Exit Exam MVC 1/2569 (อาทิตย์เช้า)
 
 ## 1. วิธีเปิดโปรแกรม
-- java 
+- ภาษาที่ใช้ : java
 - Entry point / คำสั่งเปิดโปรแกรม: run file main หรือ javac Main.java java Main
 - หมายเหตุที่จำเป็น (ถ้ามี): 
 
