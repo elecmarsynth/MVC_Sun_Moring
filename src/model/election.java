@@ -69,7 +69,6 @@ public class election {
         votersMap.get(voterId).setHasVote(true);
     }
 
-    // R3: ปิดรับคะแนน + จัดกลุ่มบัตรซ้ำลง Array
     public void closeElection() {
         this.status = ElectionStatus.CLOSED;
         Map<String, List<ballots>> patternMap = new HashMap<>();
